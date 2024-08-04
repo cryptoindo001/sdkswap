@@ -38,4 +38,8 @@
     "fmt": "prettier . --write",
     "prepublish": "tsc"
   }
+    {
+  "scripts": {
+    "build": "[my-framework] build --output public"
+  }
 }
