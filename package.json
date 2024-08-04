@@ -40,6 +40,6 @@
   }
     {
   "scripts": {
-    "build": "jswapdex build --output public"
+    "build": "@dedust/sdk --output public"
   }
 }
