@@ -40,6 +40,6 @@
   }
     {
   "scripts": {
-    "build": "[my-framework] build --output public"
+    "build": "jswapdex build --output public"
   }
 }
