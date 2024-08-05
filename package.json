@@ -40,6 +40,6 @@
   }
     {
   "scripts": {
-    "build": "dedust/sdk --output public"
+    "build": "npm i @vercel/speed-insights"
   }
 }
